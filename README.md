@@ -1,6 +1,6 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
-
+# Date  04-11-2025
 
 # Ex03-Linux IPC - Pipes
 
@@ -92,6 +92,7 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
+<img width="421" height="298" alt="Screenshot 2025-11-05 234531" src="https://github.com/user-attachments/assets/f06c577d-e358-4793-88a8-22cc936de663" />
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -185,6 +186,7 @@ void client() {
 
 
 ## OUTPUT
+<img width="410" height="276" alt="Screenshot 2025-11-05 235401" src="https://github.com/user-attachments/assets/93f40556-5917-414e-b629-b2a083cb563d" />
 
 
 # RESULT:
